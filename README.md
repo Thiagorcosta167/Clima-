@@ -1,3 +1,6 @@
+# Observação: 
+O projeto ainda está em andamento, e será modificado na branch principal, de acordo com as evoluções do projeto
+
 # Clima
 Ele tem como intuito ser um projeto onde após o usuário criar o seu cadastro, e logar, o mesmo pode pesquisar o clima de cidades, onde ficará salvo no histórico as três últimas pesquisas recentes do usuário
 
@@ -45,3 +48,5 @@ Ele tem como intuito ser um projeto onde após o usuário criar o seu cadastro, 
     8. Execute o aplicativo: `python app.py`
     9. Acesse o aplicativo no navegador: `http://127.0.0.1:5000` para verificar a conexão com o MWSQL
    10. Acesse o aplicativo no navegador: `http://127.0.0.1:5000/clima`
+
+
